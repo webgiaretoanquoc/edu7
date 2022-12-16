@@ -1,0 +1,812 @@
+Uri: https://acet.edu.vn/wp-content/uploads/2020/04/nguyen-minh-duc.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2020\04\nguyen-minh-duc.jpg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/anh-ngu-hoc-thuat/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\anh-ngu-hoc-thuat\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/cach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\cach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/cach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\cach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/cach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\cach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/cach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\cach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/category/cau-chuyen-thanh-cong/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\cau-chuyen-thanh-cong\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/category/cau-chuyen-thanh-cong/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\cau-chuyen-thanh-cong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/category/tin-tuc-su-kien/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tin-tuc-su-kien\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/category/tin-tuc-su-kien/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tin-tuc-su-kien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/category/tuyen-dung/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/category/tuyen-dung/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tuyen-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/category/tuyen-dung/giao-vien/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tuyen-dung\giao-vien\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/category/tuyen-dung/giao-vien/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tuyen-dung\giao-vien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/category/tuyen-dung/nhan-vien/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tuyen-dung\nhan-vien\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/category/tuyen-dung/nhan-vien/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\category\tuyen-dung\nhan-vien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/chung-chi-quoc-te/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\chung-chi-quoc-te\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/dac-quyen-hoc-vien/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\dac-quyen-hoc-vien\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/doi-ngu-giang-vien/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\doi-ngu-giang-vien\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/idp-tu-van-du-hoc/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\idp-tu-van-du-hoc\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/acet-summer/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\acet-summer\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/anh-ngu-hoc-thuat-ky-nang/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\anh-ngu-hoc-thuat-ky-nang\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/anh-ngu-hoc-thuat-thcs/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\anh-ngu-hoc-thuat-thcs\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/anh-ngu-hoc-thuat/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\anh-ngu-hoc-thuat\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/dao-tao-doanh-nghiep/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\dao-tao-doanh-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/khoa-hoc/luyen-thi-ielts/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\khoa-hoc\luyen-thi-ielts\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/kiem-tra-trinh-do/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\kiem-tra-trinh-do\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/lien-ket-truong-hoc/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\lien-ket-truong-hoc\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/ly-do-chon-acet/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\ly-do-chon-acet\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/thi-ielts-tai-adp/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\thi-ielts-tai-adp\index.htm
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/css/forms.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/css/l10n.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/css/login.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-admin/js/user-profile.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/css/custom-1.css?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\css\custom-1.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/css/general.css?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\css\general.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/css/jquery-ui-tooltip.css?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\css\jquery-ui-tooltip.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/img/select-arrow.php?color=666666
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\img\select-arrow.php
+Content Type: image/svg+xml
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/img/select-arrow.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\img\select-arrow.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/js/animatescroll.js?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\js\animatescroll.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/public/assets/js/general.js?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\public\assets\js\general.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/shared/assets/inc/chosen/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\shared\assets\inc\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/shared/assets/inc/chosen/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\shared\assets\inc\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/shared/assets/inc/chosen/chosen.css?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\shared\assets\inc\chosen\chosen.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/plugins/grammar-test/shared/assets/inc/chosen/chosen.js?ver=1.15
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\plugins\grammar-test\shared\assets\inc\chosen\chosen.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/190521_banner-website-01-2.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\190521_banner-website-01-2.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/444.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\444.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/banner-.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\banner-.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/bg-foeem.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\bg-foeem.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/bg-footer2.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\bg-footer2.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/bg-giang-vien.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\bg-giang-vien.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/bg-login.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\bg-login.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/bi-quyet-lam-bai-thi-IELTS.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\bi-quyet-lam-bai-thi-IELTS.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/curve.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\curve.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/down-arrow.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\down-arrow.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/exam.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\exam.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/Facebook.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\Facebook.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/HN.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\HN.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/logo-footer.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\logo-footer.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/planning.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\planning.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/Register.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\Register.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/screen.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\screen.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/section4-icon2-1.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\section4-icon2-1.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/send-icon.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\send-icon.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/slider-1.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/sukien-bg.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\sukien-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/testonline-adv.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\testonline-adv.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/07/trung-tam-tieng-anh-HN.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\07\trung-tam-tieng-anh-HN.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/09/icon-mail.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\09\icon-mail.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/09/icon-map.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\09\icon-map.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2019/09/icon-phone.png
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2019\09\icon-phone.png
+Content Type: image/png
+
+Uri: https://edu7.webtudong8giay.com/wp-content/uploads/2021/05/logo-Edu-e1621573180835.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-content\uploads\2021\05\logo-Edu-e1621573180835.jpg
+Content Type: image/jpeg
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/css/buttons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\jquery\ui\tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://edu7.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2F5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2F5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fanh-ngu-hoc-thuat%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fanh-ngu-hoc-thuat%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fcach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fcach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fcach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fcach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fchung-chi-quoc-te%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fchung-chi-quoc-te%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fdac-quyen-hoc-vien%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fdac-quyen-hoc-vien%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fdoi-ngu-giang-vien%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fdoi-ngu-giang-vien%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fidp-tu-van-du-hoc%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fidp-tu-van-du-hoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Facet-summer%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Facet-summer%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fanh-ngu-hoc-thuat%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fanh-ngu-hoc-thuat%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fanh-ngu-hoc-thuat-ky-nang%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fanh-ngu-hoc-thuat-ky-nang%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fanh-ngu-hoc-thuat-thcs%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fanh-ngu-hoc-thuat-thcs%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fdao-tao-doanh-nghiep%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fdao-tao-doanh-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fluyen-thi-ielts%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkhoa-hoc%2Fluyen-thi-ielts%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkiem-tra-trinh-do%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fkiem-tra-trinh-do%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Flien-ket-truong-hoc%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Flien-ket-truong-hoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fly-do-chon-acet%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fly-do-chon-acet%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fthi-ielts-tai-adp%2F
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu7.webtudong8giay.com%2Fthi-ielts-tai-adp%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: text/xml
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/categories/2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/440
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\440
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/53
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\53
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/55
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\55
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/57
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\57
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/59
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\59
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/61
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\61
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/63
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\63
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/65
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\65
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/67
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\67
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/69
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\69
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/71
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\71
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/73
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\73
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/75
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\75
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/77
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\77
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/79
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\79
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/pages/81
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\pages\81
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/posts/639
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\posts\639
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/posts/642
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\posts\642
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-json/wp/v2/posts/645
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-json\wp\v2\posts\645
+Content Type: application/json
+
+Uri: https://edu7.webtudong8giay.com/wp-login.php
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-login.php-2.html
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/wp-login.php?registration=disabled
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://edu7.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin,greek,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C500%2Cregular%2C500|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu7.webtudong8giay.com%252F5-ly-do-ban-nen-den-trung-tam-luyen-thi-ielts%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu7.webtudong8giay.com%252Fcach-chon-trung-tam-tieng-anh-ha-noi-tot-nhat-cho-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu7.webtudong8giay.com%252Fcach-lam-bai-thi-ielts-dat-diem-cao-ban-da-biet-chua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/nen-admin.jpg
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\web-builder\assets\login\nen-admin.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/style.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu7.webtudong8giay.com\web-builder\assets\login\style.css
+Content Type: text/css
+

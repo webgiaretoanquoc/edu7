@@ -1,0 +1,288 @@
+/* utility */
+
+.dagt-clearfix:after{
+    visibility: hidden !important;
+    display: block !important;
+    font-size: 0 !important;
+    content: " " !important;
+    clear: both !important;
+    height: 0 !important;
+}
+.dagt-clearfix { display: inline-block !important; }
+* html .dagt-clearfix { height: 1% !important; }
+.dagt-clearfix { display: block !important; }
+
+.dagt-container{
+    visibility: hidden;
+}
+
+.dagt-sentence-container{
+    display: block !important;
+    margin-bottom: 0 !important;
+}
+
+.dagt-additional-info{
+    display: block !important;
+}
+
+.dagt-correct-answer{
+    display: inline-block !important;
+}
+
+.dagt-correct-answer-tooltip{
+    display: inline;
+    background: url('../img/tooltip.png') 0 0 no-repeat !important;
+    width: 20px !important;
+    height: 20px !important;
+    margin: 0 !important;
+    border: 0 !important;
+    padding: 0 !important;
+}
+
+.dagt-correct-answer-textual{
+    display: inline-block !important;
+}
+
+.dagt-correct-answer-textual.dagt-explanation-enabled{
+    cursor: help !important;
+}
+
+.dagt-section-container{
+    margin: 42px 0 !important;
+}
+
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus{
+    display: inline !important;
+    width: auto !important;
+    border-width: 0 0 1px 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: center !important;
+    line-height: 20px !important;
+    margin: 0 8px !important;
+    background: transparent !important;
+    vertical-align: baseline !important;
+    height: auto !important;
+    border-style: solid !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    font-style: normal !important;
+    outline: none !important;
+    min-height: auto !important;
+}
+
+.dagt-container input[type="text"]:focus{
+    box-shadow: none !important;
+    padding: 0 !important;
+    outline: none !important;
+}
+  
+.dagt-container select{
+    display: inline;
+    width: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-width: 1px !important;
+    background-image: url('../img/select-arrow.png') !important;
+    background-position-y: center !important;
+    background-position-x: calc(100% - 8px) !important;
+    background-repeat: no-repeat !important;
+    line-height: 17px !important;
+    padding: 0 5px !important;
+    padding-right: 20px !important;
+    border-radius: 0 !important;
+}
+
+.dagt-container h3{
+    padding: 0 !important;
+    margin: 0 !important;
+    text-transform: none !important;
+    font-style: normal !important;
+    border: none !important;
+}
+
+.dagt-test-description{
+    display: block !important;
+}
+
+.dagt-container h2{
+    padding: 0 !important;
+    margin: 0 !important;
+    text-transform: none !important;
+    font-style: normal !important;
+    border: none !important;
+}
+
+.dagt-submit-form{
+    padding: 0 22px !important;
+    border-width: 0 !important;
+    margin: 0 !important;
+    float: left !important;
+    border-radius: 0 !important;
+    cursor: pointer !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+    text-decoration: none !important;
+    min-height: auto !important;
+}
+
+.dagt-submit-form[data-type='reset-test']{
+    display: none;
+}
+
+.dagt-submit-form:hover{
+}
+
+.dagt-container{
+    margin: 0 !important;
+}
+
+.dagt-general-answers{
+    margin: 0 !important;
+}
+
+.dagt-section-result{
+    margin: 0 !important;
+}
+
+.dagt-info-tooltip{
+    width: auto !important;
+    height: auto !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+    cursor: help !important;
+}
+
+.dagt-sentence-index{
+    display: inline-block !important;
+}
+
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed{
+    border-width: 1px !important;
+    border-style: solid !important;
+}
+
+/* Chosen ------------------------------------------------------------------- */
+.dagt-container .chosen-container,
+.dagt-container .chosen-container *{
+    cursor: default !important;
+}
+
+.dagt-container .chosen-container,
+.dagt-container .chosen-container-single,
+.dagt-container .chosen-container-active,
+.dagt-container .chosen-default,
+.dagt-container .chosen-drop,
+.dagt-container .chosen-single,
+.dagt-container .chosen-search,
+.dagt-container .chosen-results{
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+.dagt-container .chosen-container-single .chosen-default{
+    height: 24px;
+    line-height: 22px !important;
+}
+
+.dagt-container .chosen-container-single{
+    margin-bottom: 2px !important;
+    width: auto !important;
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+}
+
+.dagt-container .chosen-container-single .chosen-single{
+    margin: 0 !important;
+}
+
+.dagt-container .chosen-container-single .chosen-single span{
+    font-style: normal !important;
+}
+
+.dagt-container .chosen-container-single a.chosen-single{
+    text-decoration: none !important;
+}
+
+.dagt-container .chosen-container .chosen-results{
+    margin: 0 0 0 0 !important;
+    padding: 3px 0 0 0 !important;
+}
+
+.dagt-container .chosen-search{
+    display: none !important;
+}
+
+.dagt-container .chosen-results .active-result{
+    padding: 0 4px !important;
+    list-style: none !important;
+    text-indent: 0 !important;
+    margin: 0 !important;
+    background: none !important;
+}
+
+.dagt-container .chosen-results .active-result::before{
+    content: none !important;
+}
+
+.dagt-container .chosen-container-single .chosen-single div b {
+    width: 7px !important;
+    height: 5px !important;
+    margin-left:  3px !important;
+}
+
+.dagt-container .chosen-container .chosen-results li{
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+}
+
+.dagt-container  .chosen-container-single .chosen-drop{
+    margin: 0 !important;
+}
+
+.dagt-container .chosen-container .chosen-results{
+    padding: 0 !important;
+}
+
+.dagt-container .chosen-container-single .chosen-single div b{
+    background-position-x: 0px !important;
+}
+
+.dagt-select-container{
+    display: inline-block !important;
+}
+
+.dagt-ajax-loader{
+    width: 33px !important;
+    height: 33px !important;
+    vertical-align: top;
+    background-position: 0 0 !important;
+    margin-left: 11px !important;
+    visibility: hidden;
+    float: left !important;
+}
+
+.dagt-submit-form-container .dagt-ajax-loader-hide-ie-edge{
+    display: none !important;
+}
+
+.dagt-container select.dagt-no-background-image{
+    background-image: none !important;
+}
+
+.dagt-container .dagt-sentence-container .dagt-multiple-selection-windows-phone{
+    height: 100% !important;
+    min-height: 0 !important;
+    vertical-align: middle !important;
+}
+
+/* hack for ie8 to replace the svg arrow icon with a png arrow icon. The "\0/"
+at the end of the property value is used to target only ie8*/
+.dagt-container .dagt-select-container .chosen-container-single .chosen-single div b{
+    background: url('../img/select-arrow.png')\0/ no-repeat 0 0 !important;
+}

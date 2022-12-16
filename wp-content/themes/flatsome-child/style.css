@@ -1,0 +1,667 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+
+#logo img {
+	max-height: 100px;
+
+}.transparent #logo img {
+	max-height: 95px;
+}
+.footer-section .item span img{max-width:70%}
+.home input[type='text']{border-bottom:none; margin-bottom:15px; font-size:14px !important}
+.header-main .nav > li > a{line-height: 30px; font-size:16px; color:white}
+.header-button a {
+	display: inline-block;
+	line-height: 2.7;
+	text-transform: none;
+	font-weight: 500;
+	font-size: 15px;}
+.header-main .icon-angle-down{display:none}
+.nav-dropdown li a:hover{color:red !important}
+.nav-dropdown li a{border-bottom:0 !important; color:black;    padding: 6px 0px;}
+.nav-dropdown{box-shadow:none !important; border:none; padding:30px;     min-width: 300px;}
+
+
+.slider-home:after{
+	position: absolute;
+	content: "";
+	background-image: url(../../uploads/2019/07/banner-.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	left: 0;
+	bottom: 0px;
+	width: 100%;
+	height: 148px;
+	z-index: 1;
+}
+.slider-home .section-title-center span {
+	margin: 0 15px;
+	text-transform: none;
+	font-weight: 500;
+	font-size: 45px;
+}
+.slider-home .section-title b{background-color: #80808000;}
+.slider-home .section-title:after {
+	position: absolute;
+	content: "";
+	bottom: -30px;
+	width: 170px;
+	height: 3px;
+	background-color: #ed1c24;
+	left: 50%;
+	transform: translateX(-50%);
+}
+@keyframes moveBanerScroll {
+	from {bottom:11%;}
+	to {bottom:8%; opacity:0.1}
+}
+
+.slider-home .icon-scroll {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 6%;
+	z-index: 0;
+	animation: moveBanerScroll 1.5s ease-in-out infinite;
+	-moz-transition: all 2s ease-in-out;
+	-o-transition: all 2s ease-in-out;
+	-webkit-transition: all 2s ease-in-out; 
+	transition: all 2s ease-in-out; 
+}
+b,strong{font-weight:500}
+.slider-home{position:relative}
+.slider-home .flickity-page-dots {z-index:2;
+	bottom: 20%;
+	left:auto;
+	right: 2%;
+
+}
+.gioi-thieu-section .list-item {
+	max-width: 880px;
+	overflow: hidden;
+	margin: 0 auto 10px;
+}
+.gioi-thieu-section .cot2{   flex-basis: 34%;max-width:34%;}
+.gioi-thieu-section .cot1{   flex-basis: 22%; max-width:22%}
+.gioi-thieu-section .item-number {
+	color: #252525;
+	font-family: "UTM Bebas";
+	padding: 25px 0px;
+	font-weight: 700;
+	font-size: 75px;
+	background-color: #fff;
+	text-align: center;
+	box-shadow: 0 50px 80px rgba(37, 37, 37, 0.1);
+}
+.gioi-thieu-section .heading{z-index:-1}
+.gioi-thieu-section .heading {
+	position: absolute;
+	font-size: 300px;
+	color: rgba(37, 37, 37, 0.05);
+	right: -69%;
+	top: -150px;
+	line-height: 300px;
+	font-family: "UTM Bebas";
+}
+.gioi-thieu-section .item-text p{margin-bottom:0}
+.gioi-thieu-section .item-text {
+
+	margin: 10px 0 0 0;
+	text-transform: uppercase;
+	color: #252525;
+	text-align: center;
+	font-weight: 500;
+	font-size: 15px;
+}
+.form-dang-ky {
+	padding: 30px;
+	background-color: #fff;
+	outline: none;
+	position: relative;
+	box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1);
+	border-radius: 10px;
+	position: absolute;
+	max-width: 600px;
+	width: 600px;
+	top: -65px;
+}.wpcf7 label {
+	font-weight: 500; font-size:15px;
+}.form-dang-ky input, .form-dang-ky select {font-weight:500;
+	padding: 0 30px;
+	background-color: #fafafa;
+	height: 45px; font-size:14px;
+	border: none;
+	box-shadow: inherit;
+	color: #8f8f8f;
+	outline: none;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+}
+.form-dang-ky .row-form .right{padding-left:10px; width:50%; display:inline-block; float:right}
+.form-dang-ky input[type='submit'] {padding: 0px 94px;
+	color: white;
+	font-weight: 500;
+	letter-spacing: 0;
+	font-size: 15px;
+	position: absolute;
+	margin: 0 auto;
+	left: 25%;}
+.form-dang-ky .row-form .left{padding-right:10px; width:50%; display:inline-block; float:left}
+.form-dang-ky .row-form{display:inline-block; clear:both; width:100%}
+a.back-to-top{background:red !important; border:none !important; color:white !important}
+.gioi-thieu-section .col{padding-bottom:0px}
+.gioi-thieu-section .section-title-container {    font-weight: 700;
+	margin-bottom: 10px;
+}
+.gioi-thieu-section .section-title b{background:white;}
+.flickity-page-dots .dot{border:1px solid #0000; height:6px; width:6px; border:none !important; background:#ffffff82;     opacity: 1;}
+.flickity-page-dots .dot.is-selected{height: 6px;
+	width: 6px;
+	border: 1px solid white !important;}
+
+
+#shiva
+{
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float:left;
+	margin:5px;
+}
+.item-number
+{
+	line-height: 100px;
+	color:white;
+	font-size:25px;
+}
+.form-dang-ky input:focus{box-shadow: 0 0 5px #0000;background-color: #fafafa;}
+.danh-muc-section .box-badge .box-text .box-text-inner{border-left:5px solid red; padding-left:10px}
+.danh-muc-section .box-badge .box-text {
+	padding: 15px;
+
+	bottom: 0;  
+}
+.danh-muc-section .box-image:hover>.show-on-hover{opacity:1 !important}
+.show-on-hover{ opacity: 0;
+	position: absolute;
+	top: -260%;
+	z-index: 999 !important;
+	padding: 20px;
+	color: white;
+	left: 0;
+}
+.cau-chuyen-thanh-cong .section-title-container {
+	margin-bottom: 0;
+}
+.cau-chuyen-thanh-cong .icon-box .icon-box-img img{    border-radius: 99%;
+	border: 6px solid white;
+	box-shadow: 5px 2px 10px #0000001f;}
+.box-nhan-xet{min-height:186px;    background: #ed1c24;
+	border-radius: 15px;
+	padding: 33px;
+	background-image: url(../../uploads/2019/07/section4-icon2-1.png);
+	background-repeat: no-repeat;
+	background-position-y: 20px;
+	background-position-x: 20px;
+	padding-left: 90px;    margin-bottom: 40px;
+	color: white;
+	font-size: 15px;}
+.cau-chuyen-thanh-cong .flickity-page-dots .dot.is-selected {
+
+	border: 1px solid red !important;
+	background: red;
+}.mb {
+	margin-bottom: 10px;
+}
+.row-video p{font-size:15px; margin-bottom:0; color:gray}
+.row-video h3{font-size:15px; margin-bottom:0px}
+.slider-style-focus .flickity-slider>*:not(.is-selected) .box-nhan-xet:before{display:none !important}
+.giang-vien-section .section-title-container {
+	margin-bottom: 0;
+}
+.list-post1 .col-inner{padding:0 !important}
+.giang-vien-section .slider-nav-outside .flickity-prev-next-button.previous{right:99% !important}.box-blog-post .is-divider{display:none}
+.tin-tuc-section .flickity-page-dots .dot{height: 6px;
+	width: 6px;
+	border: 1px solid  #ee474e !important;}
+.list-post1 .post-item .box-text{padding-bottom:0}
+.list-post1 .dot.is-selected{background-color: #e84347 !important;}
+.list-post1 .flickity-page-dots {
+	bottom: 12px;
+	right: 0;
+	left: auto;
+}
+.list-post1 .post-item .button{    margin: 0;
+	text-transform: none;
+	font-size: 15px;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: 0;}
+.test-section .col, .doi-tac-section .col{padding-bottom:0}
+.doi-tac-section .section-title-container {
+	margin-bottom: 0;
+}
+.footer-section .list-item {
+	padding: 25px 35px 25px;
+	margin: 25px 0 15px;
+	background-color: #d0181f;
+	color: #fff;
+	border-radius: 6px;
+}
+.footer-section .list-item .item p {
+	font-size: 13px;
+	margin-bottom: 6px;
+	display: flex;
+}
+.footer-section .cot2 .list-item li a:hover{text-decoration:underline}
+.footer-section .cot2 .list-item{    padding: 0;
+	font-size: 14px;
+	color: rgba(255, 255, 255, 0.82);
+	background: none;}
+.footer-section .social-icons a:last-child{margin-bottom:12px}
+.footer-section .col{padding-bottom:0}
+.footer-section .list-item .item {margin-left:0; 
+	display: inline-block;
+	margin-bottom: 12px;
+}
+.footer-section .list-item .item h3 {
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+}
+.footer-section .footer .footer-left .list-item .item p {
+	font-size: 13px;
+	margin-bottom: 6px;
+	display: flex;
+}
+.footer-section .list-item .item p span:nth-of-type(1) {
+	width: 30px;
+	float: left;
+}
+.footer-section .list-item .item p span:nth-of-type(2) {
+	width: calc(100% - 30px);
+	float: left;
+}
+.list-post2 .post-item .post-title{    background-image: linear-gradient(transparent, #8a0005) !important;}
+.list-post1 .post-item .from_the_blog_excerpt {margin-top:10px; color:#424242; font-size:15px}
+.list-post1 .post-item .post-title{ height:76px;   MARGIN-TOP: -86px;
+	margin-bottom: 0px;
+	padding: 10px;
+	font-size: 22px;
+	border-bottom-left-radius: 9px;
+	border-bottom-right-radius: 9px;
+	background-image: linear-gradient(transparent, black);}
+.tin-tuc-section .cot1 .col-inner{background:white; border-radius:15px; padding:30px}
+.giang-vien-section .slider-nav-outside .flickity-prev-next-button.next{left:99% !important}
+.giang-vien-section .flickity-prev-next-button svg {
+	border-color: currentColor;
+	fill: currentColor;
+	transition: all 0.3s;
+	background: red;
+	color: white;
+	border-radius: 99%;}
+.giang-vien-section .section-title b {    background-color: #80808000;}
+.nut-xem-tat-ca{font-weight:normal; padding: 4px 79px; margin:0 ;margin-top:20px; font-size:15px; box-shadow: 2px 2px 10px #00000042;}
+.cau-chuyen-thanh-cong .box-nhan-xet:before{    width: 40px;
+	height: 40px;
+	position: absolute;
+	content: "";
+	background-color: #cc131a;
+	left: 49%;
+	top: 177px;
+	transform: rotate(45deg) translateX(-50%);
+	z-index: -1;}
+.slider-style-focus .flickity-slider>*:not(.is-selected) .box-nhan-xet{ background:none !important; color:gray; padding-left:33px !important}
+.slider-style-focus .flickity-slider>*:not(.is-selected){opacity:0.4 !important}
+.cau-chuyen-thanh-cong .icon-box .icon-box-text{font-size:15px; color:#b3b3b3;}
+.cau-chuyen-thanh-cong .icon-box h3{    font-size: 15px; margin-bottom:0;
+	font-weight: 500;}
+.box-nhan-xet::after{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	content: "";
+	background-color: #ed1c24;
+	left: 50%;
+	top: -52px;
+	transform: rotate(45deg) translateX(-50%);
+	display: none;
+}
+.cau-chuyen-thanh-cong .section-title b{background:white}
+.danh-muc-section {padding-bottom:0px !important}
+.show-on-hover a button{margin-top:10px; background: #ec1f27;
+	border-radius: 20px;
+	color: white;
+	text-transform: none;
+	font-weight: normal;}
+.show-on-hover .mo-ta-khoa{    line-height: 24px !important;}
+.danh-muc-section .box-image{border-radius:15px}
+.danh-muc-section .box-text h4{    margin: 0;
+	margin-bottom: 5px;}
+.danh-muc-section .box-text p {
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 14px;
+	font-size: 14px;
+}
+.footer-section .list-item .item p span:nth-of-type(1) {
+	width: 30px;
+	float: left;
+}
+.footer-section .list-item li a:after {
+	position: absolute;
+	right: 30px;
+	content: "+";
+	color: rgba(255, 255, 255, 0.5);
+}
+.form-dang-ky-row{ background-size: 4px;   background-image: url(../../uploads/2019/07/bg-foeem.jpg);
+	background-repeat: repeat-x;
+	background-position-y: bottom;}
+.form-dang-ky-row .wpcf7 label{text-align:left !important}
+.form-dang-ky-row .form-dang-ky input[type='submit']{    left: 38%;}
+.form-dang-ky-row .form-dang-ky{ 
+	position: inherit;
+	margin: 0 auto;
+	width: 600px;
+	top: 0px;
+}
+.dang-ky-section .nut-xem-tat-ca{margin-top:5px;     margin-bottom: 20px;}
+.dang-ky-section .col{padding-bottom:0}
+.li-do-chon-chung-toi .icon-box .icon-box-text{padding-left: 4em !important}
+.anh-ngu-hoc-thuat .icon-box{    background: #ed1e27;
+	padding: 10px;
+	border-radius: 10px;
+	color: white;
+	font-size: 15px;
+	min-height: 150px;margin-bottom: 30px;
+}
+.noi-dung-khoa-hoc .text {
+	float: left;
+}
+.noi-dung-khoa-hoc .text .top {
+	display: inline-block;
+	width: 100%;
+}
+.noi-dung-khoa-hoc .text .top p {
+	max-width: 70%;
+	float: left;
+	color: #252525;
+	font-size: 15px;
+}
+.noi-dung-khoa-hoc .text .top h3{  font-size: 15px; color:red;
+	text-transform: uppercase;
+	max-width: 30%;
+	float: left;
+	margin-right: 15px;
+} .noi-dung-khoa-hoc .text .middle h3 {
+	font-size: 25px;
+	color: #252525;
+} .noi-dung-khoa-hoc .text .middle h3 .info {
+	margin-left: 40px;
+	color: #ed1c24;
+	font-size: 15px;
+}
+.noi-dung-khoa-hoc .medium-7 .col-inner{background: white;
+	display: inline-block;
+	padding: 10px;
+	height: 330px;}
+.hoat-dong-ngoai-khoa .box h3{    margin-bottom: 10px;    font-size: 15px;}
+.cau-chuyen-section .box .box-image{border-top-left-radius:15px; border-top-right-radius:15px}
+.cau-chuyen-section .box .box-image .image-cover:after{position: absolute;
+	left: 0;
+	bottom: 0;
+	content: "";
+	width: 100%;
+	height: 22px;
+	background-image: url(../../uploads/2019/07/curve.png);
+	background-repeat: no-repeat;
+	background-size: cover;}
+.cac-khoa-hoc-khac .icon-box .icon-box-img img{padding-top:0}
+.cac-khoa-hoc-khac .icon-box .icon-box-text{    padding-left: 1em !important;
+	max-height: 143px;
+	overflow: hidden;
+	font-size: 15px;
+	padding: 10px;
+}.luyen-thi .box .box-text{border-top: 2px solid #009d1a !important;}
+.luyen-thi .text .middle{border-bottom: 1px solid #00a859 !important;}
+.luyen-thi .text .top h3, .luyen-thi .text .middle h3 .number, .luyen-thi .text .middle h3 .info, .luyen-thi .text .bottom li{color: #00a859 !important;}
+.thcs .text .top h3,  .thcs .text .middle h3 .number, .thcs .text .middle h3 .info, .thcs .text .bottom li{    color: #03a9f4 !important;}
+.thcs .box .box-text{    border-top: 2px solid #03a9f4;}
+.luyen-thi .icon-box{background: #00a859;}
+.thcs .text .middle{border-bottom: 1px solid #03a9f4 !important;}
+.thcs .icon-box{    background: #03A9F4;}
+.cac-khoa-hoc-khac h3{margin-bottom:5px}
+.cac-khoa-hoc-khac .icon-box{    box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1);
+	max-height: 166px;border-radius: 15px;}
+.cau-chuyen-section .box .box-text .excerpt{height:95px; overflow:hidden}
+.cau-chuyen-section .box .box-text .achievement{    font-size: 14px;
+	color: gray;
+	margin-bottom: 10px;}
+.cau-chuyen-section .box .box-text h3 a{color:black !important; font-weight:500; font-size:15px}
+.cau-chuyen-section .box .box-text{padding:10px 20px; }
+.cau-chuyen-section .box{box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1);
+	border-radius: 15px;}
+.hoat-dong-ngoai-khoa .box .box-image{border-top-left-radius:15px; border-top-right-radius:15px}.page-wrapper {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.blog-archive h1.page-title{    text-align: left;
+	letter-spacing: 0;
+	font-size: 27px;
+	margin-top: -90px;
+	color: white;
+	font-weight: bold; padding-bottom:0}
+.blog-archive .badge{display:none}
+.blog-archive .post-item .box-image .image-cover{border-top-left-radius:15px; border-top-right-radius:15px}
+.blog-single .row{max-width:950px}
+.is-divider {
+	height: 2px;
+	background-color: rgb(236, 31, 39);    max-width: 200px;
+}
+.dang-ky-thi li{width:25%; float:left; display:inline-block; text-transform: uppercase;
+	font-weight: 500;
+	border-bottom: 2px solid red;
+	text-align: center;
+	padding-bottom: 10px;
+	margin-right: 10px; margin-left:0 !important}
+.dang-ky-thi{margin-top:20px; width:100%; display:inline-block;}
+.blog-archive .no-results .page-title{display:none}
+.blog-single .blog-share a{border:none}
+.blog-single .entry-category a{font-weight:normal}
+.blog-archive .post-item .post-title:hover{color:red}
+.blog-single .anh-tieu-de{display:none}
+.blog-archive .post-item a:hover{color:black}
+.blog-archive .post-item button{    margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: red;
+	letter-spacing: 0;}
+.blog-archive .post-item .post-title{margin-bottom:10px}
+.blog-archive .post-item .box-text{background:#fafafa; padding:20px 15px; border-bottom-left-radius:15px; border-bottom-right-radius:15px}
+.blog-archive .large-12{padding-bottom:0}
+.hoat-dong-ngoai-khoa .box{border-radius: 15px;    box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1);}
+.anh-tieu-de{width:100%; margin-bottom:30px}
+.hoat-dong-ngoai-khoa .box .box-text{padding: 20px;
+	font-size: 13px; border-top:2px solid red
+}
+.hoat-dong-ngoai-khoa .icon-box .icon-box-img img{    border-radius: 0;
+	border: 0;
+	box-shadow: none;}
+.noi-dung-khoa-hoc .flickity-page-dots .dot.is-selected{border: 1px solid #ed1c24 !important; background: #ed1c24 !important}
+.noi-dung-khoa-hoc .text .bottom li { text-align: left;
+	color: #ff0000;
+	position: relative;
+	list-style: none;
+	float: left;
+	display: inline-block;
+	margin: 0;
+}
+.noi-dung-khoa-hoc .text .middle h3 .number {
+	color: #ed1c24;
+}
+.noi-dung-khoa-hoc .text .middle {padding-top:10px;padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid #e9e9e9;
+	border-bottom: 1px solid #ed1c24;
+}
+.noi-dung-khoa-hoc .text .bottom li {
+	color: #ed1c24;width: calc(50%);
+	float: left;
+	text-align: center;
+	color: #e45625;
+	position: relative;
+}
+.anh-ngu-hoc-thuat .icon-box h3{    color: white;
+	margin-bottom: 5px;}
+.li-do-chon-chung-toi .icon-box {padding-bottom:40px; border-bottom:1px solid #efefef; margin-bottom:30px}
+a.back-to-top i{    font-size: 54px !important;
+}
+a.back-to-top{    box-shadow: 2px 11px 25px #00000040; width:70px; height:70px;}
+.absolute-footer{display:none}
+.footer-section{    margin-top: -12px; background-image: url(../../uploads/2019/07/bg-footer2.png); background-repeat:no-repeat; background-position-y: top; background-size: contain; padding-top:74px !important}
+.doi-tac-section{padding-bottom:0 !important}
+.dagt-container h2 {    color: #ec1f27 !important;
+	font-weight: 500 !important;
+	font-size: 26px !important;
+}.dagt-section-result {
+	color: #EF6C00 !important;
+
+	font-size: 15px !important;
+}div.wpcf7-mail-sent-ok {
+	border: none;
+	background: #C5E1A5;
+	border-radius: 15px !important;
+	color: #1B5E20;
+	font-size: 13px;
+	padding: 11px;
+}
+.back-to-top.menu-icon .icon-menu:before{font-size:30px; color:black}
+.back-to-top.menu-icon{ top: 12%;
+	background: none !important;
+	box-shadow: none !important;
+	right: -15px;}
+.kiem-tra-trinh-do .form-dang-ky{position: relative; }
+.dagt-section-description{
+	font-weight: 400 !important;
+	color: #2196F3 !important;
+	font-size: 16px !important;
+}.dagt-container h3{font-weight:normal !important}
+.dagt-general-answers{background: #F1F8E9;
+	padding: 20px;
+	border-radius: 15px;
+	color: #1B5E20 !important;}
+.dagt-message-examination-already-completed{color: #313131 !important;
+	box-shadow: 2px 2px 80px #00000026 !important;
+	border: none !important;
+	box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1) !important;
+	border-radius: 15px !important;
+	font-size: 24px !important;
+	font-weight: 500 !important;}
+.dagt-clearfix input[type='submit']{border-radius:20px !important; }
+.transparent .header-main{    background-image: linear-gradient(#000000ab, transparent);}
+
+
+.dagt-sentence-index{display:none !important}
+#login{background:url(../../uploads/2019/07/bg-login.jpg); background-size:contain; background-repeat:no-repeat}
+.kiem-tra-trinh-do div.wpcf7-mail-sent-ok {display:none !important}
+.kiem-tra-trinh-do .form-dang-ky h3{margin-bottom:5px; color:#ec1f27; font-size:25px}
+.kiem-tra-trinh-do .form-dang-ky .des{font-size:15px; margin-bottom:10px;}
+.kiem-tra-trinh-do .form-dang-ky input[type='submit']{left:18%}
+.mfp-container {text-align:left;
+	position: absolute;
+	width: 35%;
+	height: 100%;
+	right: 0;
+	top: 0; left:auto;
+	padding: 30px;
+
+}.off-canvas .sidebar-menu {
+	padding: 0;
+}
+.off-canvas-right .mfp-content .header-block-block-1 .list-item li{margin-bottom:15px !important}
+.off-canvas-right .mfp-content .header-block-block-1{width:100%; padding-top:40px}
+.off-canvas-right .mfp-content .footer-section{background:none; padding:0 !important;     margin-top: 0 !important;}
+.off-canvas-right .mfp-content{width:35%}.off-canvas-right.dark .mfp-content{    background-color: rgb(237, 28, 36);}
+.list-post1 .post-item button{display:none}
+.list-post1 .post-item .primary{display:block !important}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+	.transparent .header-main {
+		height: 70px;
+	}.transparent #logo img {
+		max-height: 70px;
+	}
+	.slider-home:after{    background-size: contain;
+		left: 0px;
+		bottom: 0px;
+		width: 100%;
+		height: 27px;
+		background-position-y: 2px;
+		z-index: 1;}
+	.banner-layers .text, .slider-home .icon-scroll, .gioi-thieu-section .heading{display:none}.slider-home .flickity-page-dots {
+
+		left: 5%;
+		right: auto;
+	}
+	.form-dang-ky{padding: 10px; position: inherit; max-width:100%; width:100%}
+	.dang-ky-lo-trinh .excerpt p{margin-top:10px; margin-bottom:0; font-size:15px; font-style:italic}
+	.gioi-thieu-section, .dang-ky-lo-trinh, .danh-muc-section {padding:20px 0 !important}
+	.form-dang-ky input[type='submit']{position: inherit; left:auto !important}
+	.section-title-center span, .dang-ky-lo-trinh .title {
+		margin: 0;
+		font-size: 17px !important;
+
+	}.gioi-thieu-section .section-title-container{margin-bottom:0}
+	.gioi-thieu-section .cot1, .gioi-thieu-section .cot2{flex-basis:50%; max-width:50%}.gioi-thieu-section .item-number{font-size:45px !important} 
+	.dang-ky-lo-trinh .medium-6{padding-bottom:10px}
+	.gap-pc, .show-on-hover, .cau-chuyen-thanh-cong .nut-xem-tat-ca{display:none !important}
+	.slider-style-focus {
+		padding: 5px 0;
+	}
+	.list-post1 .post-item .post-title{font-size:16px}
+	.giang-vien-section .col.medium-3 .box-text{min-height:114px !important}.tin-tuc-section .cot1 .col-inner{padding:15px}
+	.giang-vien-section .col.medium-3 p{font-size:12px}
+	.tin-tuc-section .slider-nav-push:not(.slider-nav-reveal) .flickity-prev-next-button {
+		margin-top: -83%;
+	}.nut-xem-tat-ca {
+		padding: 4px 40px;}
+	.kiem-tra-trinh-do .form-dang-ky{position:inherit}.form-dang-ky input[type='submit'] {
+		padding: 0px 37px;}
+	.mfp-container{width:100%}.off-canvas-right .mfp-content {
+		width: 100%;
+	}.off-canvas-right .mfp-content .header-block-block-1{padding-top:0}.li-do-chon-chung-toi .icon-box .icon-box-text {
+		padding-left: 10px !important;
+	}.form-dang-ky input{margin-bottom:10px !important}
+
+	.li-do-chon-chung-toi .icon-box .icon-box-img img, .li-do-chon-chung-toi .icon-box .icon-box-img{max-width:70px; width:70px !important}
+	.noi-dung-khoa-hoc .text .excerpt{font-size:13px}
+	.noi-dung-khoa-hoc .text .middle h3 .info{margin-left:0}.cau-chuyen-section .box .box-text .excerpt {
+		height: 86px;}
+	.cau-chuyen-section .nut-xem-tat-ca{display:none}
+	.cac-khoa-hoc-khac .icon-box .icon-box-img{max-width:90px}.cac-khoa-hoc-khac h3 {
+		margin-bottom: 0;
+	}
+	.cac-khoa-hoc-khac p{line-height: 19px; font-size:12px;
+		height: 38px;
+		overflow: hidden;}
+	.cac-khoa-hoc-khac .medium-6{padding-bottom:10px}
+	.dang-ky-thi li{width:50%; margin: 0;}
+
+}

@@ -1,0 +1,34 @@
+/*Tùy chỉnh CSS cho trang đăng nhập Wordpress*/
+#login h1 a {
+	width: auto !important;
+	background-size: auto 100% !important;
+	background-position: center !important;
+}
+body {background: url(nen-admin.jpg);background-size: cover;background-position:center;}
+body.login:before {content: "";position: absolute;left: 0;top: 0;right: 0;bottom: 0;background: rgba(255,255,255,0.4);z-index: -1;}
+.login form .input, .login form input[type=checkbox], .login input[type=text] {background:#d6d5d5a8;border-radius: 30px;border: none;box-shadow: none;}
+.login label{color:#555;}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large {height: 35px;line-height: 30px; padding:0 17px 2px 17px;}
+.login form .input{padding: 5px 20px;}
+.login .button-primary {box-shadow: 0 1px 0 #eb1f27 !important;border-radius: 20px !important;text-shadow: none !important;background: linear-gradient(180deg, #eb1f27 , #f27027);border-color: #eb1f27 !important;transition: .5s;}
+.wp-core-ui .button-primary:hover{box-shadow: 0 1px 3px transparent !important;transition:.5s}
+.wp-core-ui .button-primary:hover,.wp-core-ui .button-primary:focus,.wp-core-ui .button-primary:active{box-shadow: 0 1px 3px transparent !important;border-color: transparent !important; transition:.5s;background:linear-gradient(180deg, #eb1f27 , #f27027);}
+#nav a,#backtoblog a{color: black !important;}
+.login #login_error{ box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1)
+!important; border-radius: 15px !important;}
+.login .message{border-left: 4px solid #f27027 !important; border-radius:
+15px;box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1) !important;}
+.login #nav a:hover, .login #backtoblog a:hover{color: #eb1f27 !important;}
+input[type=checkbox]:checked:before{color: #eb1f27;}
+.login input[type=text]:focus, .login input[type=password]:focus,
+input[type=email]:focus{ box-shadow: 0 0 2px rgb(255, 255, 255)
+!important;}
+.login h1 a{ background-size: 115px !important; height: 115px
+!important; width: 209px !important; }
+#login {width: 450px !important;}
+.login form {background: #f9f9f9e3;box-shadow: 0 30px 80px rgba(37, 37, 37, 0.1)
+!important;border-radius: 15px; padding: 40px !important;}
+@media only screen and (max-width: 480px) {
+#login {width: 320px !important;}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large{height: 28px;line-height: 25px;padding: 0 10px 2px 10px;}
+}

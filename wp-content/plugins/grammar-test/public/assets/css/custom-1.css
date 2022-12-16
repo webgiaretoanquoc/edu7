@@ -1,0 +1,365 @@
+/* Base Font Size ----------------------------------------------------------- */
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus,
+.dagt-container select,
+.dagt-submit-form,
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed,
+.dagt-section-description,
+.dagt-test-description,
+.dagt-sentence-container,
+.dagt-additional-info,
+.dagt-general-answers,
+.dagt-section-result,
+.ui-tooltip,
+.dagt-container .tooltip > div,
+.dagt-container .chosen-container-single .chosen-single span,
+.chosen-container .chosen-results li.active-result,
+.dagt-sentence-index,
+.dagt-correct-answer-textual{
+    font-size: 16px !important;
+}
+.dagt-container h2{
+    font-size: 34.461538461538px !important;
+}
+.dagt-container h3{
+    font-size: 19.692307692308px !important;
+}
+/* Base Line Height --------------------------------------------------------- */
+.dagt-general-answers,
+.dagt-section-result,
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed,
+.dagt-container h3,
+.dagt-test-description,
+.dagt-section-description,
+.dagt-additional-info,
+.dagt-sentence-container,
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    line-height: 24px !important;
+}
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    padding: 11px 11px !important;
+}
+.dagt-container .chosen-container-single .chosen-single div b {
+    margin-top:  9px !important;
+}
+.dagt-sentence-container{
+    line-height: 48px !important;
+    min-height: 24px !important;
+}
+.dagt-select-container{
+    max-height: 24px !important;
+}
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed{
+    padding: 23px !important;
+}
+.dagt-section-container{
+    margin: 48px 0 !important;
+}
+.dagt-additional-info{
+    margin-bottom: 48px !important;
+}
+.dagt-section-description,
+.dagt-container h3,
+.dagt-section-result{
+    margin-bottom: 24px !important;
+}
+.dagt-container h2{
+    line-height: 34.285714285714px !important;
+    margin-bottom: 13.714285714286px !important;
+}
+.dagt-submit-form{
+    height: 37.714285714286px !important;
+    line-height: 37.714285714286px !important;
+    padding: 0 25.142857142857px !important;
+}
+.dagt-ajax-loader{
+    height: 37.714285714286px !important;
+    width: 37.714285714286px !important;
+}
+.dagt-container select{
+    height: 24px !important;
+    line-height: 19.428571428571px !important;
+}
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus{
+    line-height: 22.857142857143px !important;
+}
+.dagt-container input[type="text"].dagt-auto-line-height,
+.dagt-container input[type="text"]:focus.dagt-auto-line-height{
+    line-height: 21.857142857143px !important;
+}
+.dagt-container .chosen-container-single .chosen-single{
+    height: 24px !important;
+}
+.dagt-container .chosen-container-single .chosen-single span{
+    height: 22px !important;
+    line-height: 22px !important;
+}
+.dagt-container .chosen-results .active-result{
+    min-height: 24px !important;
+    line-height: 24px !important;
+}
+.dagt-container .dagt-select-container{
+    min-height: 48px !important;
+}
+.dagt-container .dagt-correct-answer{
+    max-height: 48px !important;
+    min-height: 48px !important;
+    line-height: 48px !important;
+}
+.dagt-container .dagt-correct-answer-textual{
+    min-height: 48px !important;
+    line-height: 48px !important;
+}
+.dagt-container .dagt-info-tooltip{
+    min-height: 24px !important;
+    line-height: 24px !important;
+    margin: 12px 0 12px 0 !important;
+}
+.dagt-container .dagt-sentence-index{
+    min-height: 48px !important;
+    line-height: 48px !important;
+}
+.dagt-container .chosen-container-single{
+    margin-bottom: 2.2857142857143px !important;
+}
+.dagt-container .chosen-container .chosen-drop{
+    top: 24px !important;
+}
+.dagt-container .chosen-container-single{
+    height: 24px !important;
+}
+.dagt-container .chosen-container-single .chosen-single div b{
+    background-position-y: 9.5px !important;
+}
+/* Base font Color ---------------------------------------------------------- */
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus,
+.dagt-container select,
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed,
+.dagt-test-description,
+.dagt-section-description,
+.dagt-additional-info,
+.dagt-general-answers,
+.dagt-section-result,
+.dagt-sentence-container,
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    color: #2d2d2d !important;
+}
+/* Base Font Weight --------------------------------------------------------- */
+.dagt-test-description,
+.dagt-section-description,
+.dagt-sentence-container,
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus,
+.dagt-container select,
+.dagt-additional-info,
+.dagt-general-answers,
+.dagt-section-result,
+.chosen-container .chosen-results li.active-result,
+.dagt-container .chosen-container-single a.chosen-single,
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    font-weight: 400 !important;
+}
+/* Base Font Family --------------------------------------------------------- */
+.dagt-test-description,
+.dagt-section-description,
+.dagt-sentence-container,
+.dagt-additional-info,
+.dagt-container select,
+.dagt-section-result,
+.dagt-general-answers,
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus,
+.dagt-message-only-registered-students,
+.dagt-message-examination-already-completed,
+.dagt-message-examination-completed,
+.dagt-submit-form,
+.ui-tooltip,
+.dagt-container .tooltip > div,
+.dagt-container .chosen-results .active-result,
+.dagt-container .chosen-container-single .chosen-single span,
+.dagt-correct-answer-textual{
+    font-family: roboto, sans-serif !important;
+}
+/* Test Title Font Color ---------------------------------------------------- */
+.dagt-container h2{
+    color: #222222 !important;
+}
+/* Headings Font Weight ----------------------------------------------------- */
+.dagt-container h2,
+.dagt-container h3{
+    font-weight: 600 !important;
+}
+/* Headings Font Family ----------------------------------------------------- */
+.dagt-container h2,
+.dagt-container h3{
+    font-family: roboto, sans-serif !important;
+}
+/* Submit Button Background Color ------------------------------------------- */
+.dagt-submit-form{
+    background: #dd3333 !important;
+}
+/* Submit Button Background Color Hover ------------------------------------- */
+.dagt-submit-form:hover{
+    background: #dd3333 !important;
+}
+/* Submit Button Font Color ------------------------------------------------- */
+.dagt-submit-form,
+.dagt-submit-form:hover{
+    color: #fff !important;
+}
+/* Correct Answers Color ---------------------------------------------------- */
+.dagt-correct-highlight{
+    color: #21b500 !important;
+}
+/* Wrong Answers Color ------------------------------------------------------ */
+.dagt-wrong-highlight{
+    color: #dd3333 !important;
+}
+/* Corrected Answers Font Weight -------------------------------------------- */
+.dagt-correct-answer-textual{
+    font-weight: 400 !important;
+}
+/* Messages Background Color ------------------------------------------------ */
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed{
+    background: #fcfcfc !important;
+}
+/* Messages Border Color ---------------------------------------------------- */
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed{
+    border-color: #e1e1e1 !important;
+}
+/* Messages Font Color ------------------------------------------------------ */
+.dagt-message-only-registered-students,
+.dagt-message-examination-completed,
+.dagt-message-examination-already-completed{
+    color: #666666 !important;
+}
+/* Test Top Margin ---------------------------------------------------------- */
+.dagt-container{
+    margin-top: 21px !important;
+}
+/* Test Bottom Margin ------------------------------------------------------- */
+.dagt-container{
+    margin-bottom: 21px !important;
+}
+/* Section Title Font Color ------------------------------------------------- */
+.dagt-container h3{
+    color: #dd3333 !important;
+}
+/* Section Description Font Color ------------------------------------------- */
+.dagt-section-description,
+.dagt-section-result{
+    color: #666666 !important;
+}
+/* Section Description Font Weight ------------------------------------------ */
+.dagt-section-description,
+.dagt-section-result{
+    font-weight: 400 !important;
+}
+/* Submit Button Font Weight ------------------------------------------------ */
+.dagt-submit-form{
+    font-weight: 400 !important;
+}
+/* Input Font Color --------------------------------------------------------- */
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus{
+    color: #353535 !important;
+}
+/* Input Border Color ------------------------------------------------------- */
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus{
+    border-color: #e1e1e1 !important;
+}
+/* Select Font Color -------------------------------------------------------- */
+.dagt-container .chosen-container-single .chosen-single span,
+.dagt-container .chosen-results .active-result{
+    color: #353535 !important;
+}
+/* Select Background Color -------------------------------------------------- */
+.dagt-container .chosen-container,
+.dagt-container .chosen-container-single,
+.dagt-container .chosen-container-active,
+.dagt-container .chosen-default,
+.dagt-container .chosen-drop,
+.dagt-container .chosen-single,
+.dagt-container .chosen-search,
+.dagt-container .chosen-results{
+    background: #fff !important;
+}
+/* Select Border Color ------------------------------------------------------ */
+.dagt-container .chosen-container-active.chosen-with-drop .chosen-single,
+.dagt-container .chosen-container-single .chosen-single,
+.dagt-container .chosen-container .chosen-drop{
+    border-color: #e1e1e1 !important;
+}
+/* Select Highlight Background Color ---------------------------------------- */
+.dagt-container .chosen-container .chosen-results li.highlighted{
+    background: #f8f8f8 !important;
+}
+/* Select Highlight Font Color ---------------------------------------------- */
+.dagt-container .chosen-container .chosen-results li.highlighted{
+    color: #383838 !important;
+}
+/* Tooltip Font Color ------------------------------------------------------- */
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    color: #666666 !important;
+}
+/* Tooltip Background Color ------------------------------------------------------- */
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    background: #fff !important;
+}
+/* Tooltip Border Color ------------------------------------------------------- */
+.ui-tooltip,
+.dagt-container .tooltip > div{
+    border-color: #e1e1e1 !important;
+}
+/* Dashicon Size ------------------------------------------------------------ */
+.dagt-container .dashicons,
+.dagt-container .dashicons-before:before{
+    font-size: 20px !important;
+}
+/* Correct Answers Decoration ----------------------------------------------- */
+.dagt-correct-highlight > div{ text-decoration: underline !important; }/* Wrong Answers Decoration ------------------------------------------------- */
+.dagt-wrong-highlight > div{ text-decoration: line-through !important; }/* Input Horizontal Margin -------------------------------------------------- */
+.dagt-container input[type="text"],
+.dagt-container input[type="text"]:focus{
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+}
+/* Select Horizontal Margin -------------------------------------------------- */
+.dagt-container .chosen-container-single{
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+}
+/* Enumeration Font Weight -------------------------------------------------- */
+.dagt-sentence-index{
+    font-weight: 400 !important;
+}
+/* Enumeration Font Color --------------------------------------------------- */
+.dagt-sentence-index{
+    color: #666666 !important;
+}
+/* Select Arrow Color ------------------------------------------------------- */
+.dagt-container .chosen-container-single .chosen-single div b {
+        background: url('../img/select-arrow.php') no-repeat 0 0 !important;
+}
+        
